@@ -15,7 +15,7 @@
       "lat": 46.4320548,
       "lon": 12.376239,
       "radius_m": 250
-    }
+    },
     {
       "id": "HEMS_BL",
       "type": "hems_base",
@@ -23,7 +23,7 @@
       "lat": 46.1688511,
       "lon": 12.2517443,
       "radius_m": 250
-    }
+    },
     {
       "id": "H_BL",
       "type": "hospital",
@@ -31,7 +31,7 @@
       "lat": 46.1389581,
       "lon": 12.2001221,
       "radius_m": 250
-    }
+    },
     {
       "id": "HEMS_PD",
       "type": "hems_base",
@@ -39,7 +39,7 @@
       "lat": 45.3942533,
       "lon": 11.843572,
       "radius_m": 250
-    }
+    },
     {
       "id": "H_PD",
       "type": "hospital",
@@ -47,7 +47,7 @@
       "lat": 45.4011291,
       "lon": 11.8917599,
       "radius_m": 250
-    }
+    },
     {
       "id": "H_SDdP",
       "type": "hospital",
@@ -55,7 +55,7 @@
       "lat": 45.6353917,
       "lon": 12.5733784,
       "radius_m": 250
-    }
+    },
     {
       "id": "H_J",
       "type": "hospital",
