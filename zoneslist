@@ -1,0 +1,68 @@
+{
+  "zones": [
+    {
+      "id": "HEMS_TV",
+      "type": "hems_base",
+      "name": "Treviso – Base HEMS",
+      "lat": 45.6555533,
+      "lon": 12.2637643,
+      "radius_m": 250
+    },
+    {
+      "id": "HEMS_PdC",
+      "type": "hems_base",
+      "name": "Pieve di Cadore – Base HEMS",
+      "lat": 46.4320548,
+      "lon": 12.376239,
+      "radius_m": 250
+    }
+    {
+      "id": "HEMS_BL",
+      "type": "hems_base",
+      "name": "Belluno – Base HEMS",
+      "lat": 46.1688511,
+      "lon": 12.2517443,
+      "radius_m": 250
+    }
+    {
+      "id": "H_BL",
+      "type": "hospital",
+      "name": "Ospedale Belluno - Elisuperficie",
+      "lat": 46.1389581,
+      "lon": 12.2001221,
+      "radius_m": 250
+    }
+    {
+      "id": "HEMS_PD",
+      "type": "hems_base",
+      "name": "Padova – Base HEMS",
+      "lat": 45.3942533,
+      "lon": 11.843572,
+      "radius_m": 250
+    }
+    {
+      "id": "H_PD",
+      "type": "hospital",
+      "name": "Ospedale Padova - Elisuperficie",
+      "lat": 45.4011291,
+      "lon": 11.8917599,
+      "radius_m": 250
+    }
+    {
+      "id": "H_SDdP",
+      "type": "hospital",
+      "name": "Ospedale San Dona' di Piave - Elisuperficie",
+      "lat": 45.6353917,
+      "lon": 12.5733784,
+      "radius_m": 250
+    }
+    {
+      "id": "H_J",
+      "type": "hospital",
+      "name": "Ospedale Jesolo - Elisuperficie",
+      "lat": 45.5092921,
+      "lon": 12.6589393,
+      "radius_m": 250
+    }
+  ]
+}
