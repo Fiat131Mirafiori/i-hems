@@ -38,7 +38,7 @@
       "name": "Padova – Base HEMS",
       "lat": 45.3942533,
       "lon": 11.843572,
-      "radius_m": 250
+      "radius_m": 500
     },
     {
       "id": "H_PD",
